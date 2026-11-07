@@ -1,3 +1,4 @@
-seedvault
-test
-tmp
+/seedvault
+/test
+/tmp
+.DS_Store
